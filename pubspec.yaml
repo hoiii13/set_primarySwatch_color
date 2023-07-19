@@ -1,7 +1,7 @@
 name: set_primary_swatch_color
-description: A new Flutter project.
+description: Any color is used to set the primarySwatch theme color.
 version: 0.0.1
-homepage:
+homepage: https://github.com/hoiii13/set_primarySwatch_color.git
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
