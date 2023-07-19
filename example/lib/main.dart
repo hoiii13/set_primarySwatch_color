@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:set_primary_swatch_color/set_color.dart';
+import 'package:set_primary_swatch_color/set_primary_swatch_color.dart';
 
 void main() {
   runApp(const MyApp());

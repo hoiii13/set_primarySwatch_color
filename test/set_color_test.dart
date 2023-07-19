@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:set_primary_swatch_color/set_color.dart';
+import 'package:set_primary_swatch_color/set_primary_swatch_color.dart';
 
 void main() {
   testWidgets('Test createMaterialColor', (WidgetTester tester) async {
